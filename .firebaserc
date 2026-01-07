@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "blood-connection-ffd0d"
+  },
+  "targets": {
+    "blood-connection-ffd0d": {
+      "hosting": {
+        "default": [
+          "blood-connection-ffd0d"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
